@@ -21,5 +21,5 @@ python train.py -train_data_dir /data/inD/data/&
 
 ## Acknowledgement
 
-Part of the codes are modified from [torchdiffeq](https://github.com/pytorch/vision/blob/master/torchvision/models) and [cvpr_dNRI](https://github.com/cgraber/cvpr_dNRI). 
+Part of the codes are modified from [torchdiffeq](https://github.com/rtqichen/torchdiffeq) and [cvpr_dNRI](https://github.com/cgraber/cvpr_dNRI). 
 We sincerely thank for their great work.
